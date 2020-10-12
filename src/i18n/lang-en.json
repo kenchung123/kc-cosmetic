@@ -1,0 +1,287 @@
+{
+    "menu": {
+        "chat": "Chat",
+        "my_page": "My Page",
+        "projects": "Project",
+        "user": "User",
+        "account": "Account",
+        "sign_out": "Sign out"
+    },
+    "button": {
+        "close": "Close",
+        "next": "Next",
+        "login": "Log in",
+        "back": "Back",
+        "cancel": "Cancel",
+        "update": "Update",
+        "submit": "Submit",
+        "search": "Search",
+        "previous": "Previous",
+        "register": "Register",
+        "ok": "OK",
+        "delete": "Delete",
+        "edit": "Edit",
+        "reset": "Reset",
+        "add": "Add",
+        "create": "Create",
+        "save": "Save"
+    },
+    "symbol": {
+        "no": "#"
+    },
+    "confirm": {
+        "message_delete": "Do you want to delete?",
+        "message_create": "Do you want to create?",
+        "message_update": "Do you want to update?",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "notification": {
+        "success": "success",
+        "error": "error"
+    },
+    "message_error": {
+        "upload_fail": "Upload failed.",
+        "add_fail": "Add failed.",
+        "update_fail": "Update failed.",
+        "delete_fail": "Delete failed.",
+        "email": "Email is not a valid email!",
+        "tel": "Tel is not a valid tel!",
+        "file": "Uploaded failed: Duplicate upload!",
+        "name_project": "Project name already exists",
+        "error_role": "Select role !"
+    },
+    "item": {
+        "issue": "Issue",
+        "data": "Data",
+        "user": "User",
+        "project": "Project",
+        "comment": "Comment",
+        "group": "Group",
+        "group_name": "Group Name",
+        "member": "Member",
+        "avt_group": "Group's Avatar",
+        "notes": "Notes"
+    },
+    "action": {
+        "add": "added",
+        "delete": "deleted",
+        "edit": "updated",
+        "create": "created",
+        "load": "loaded",
+        "remove": "removed",
+        "leave_group": "leaved group"
+    },
+    "login": {
+        "user_name": "Username",
+        "pass_word": "Password"
+    },
+    "header": {
+        "logout": "Logout"
+    },
+    "issue": {
+        "list": {
+            "title": "Issue List",
+            "number": "#",
+            "tracker": "Tracker",
+            "status": "Status",
+            "subject": "Subject",
+            "author": "Author",
+            "assignee": "Assignee",
+            "startDate": "Start Date",
+            "dueDate": "Due Date",
+            "percentDone": "% Done",
+            "project": "Project",
+            "viewClosed": "View Issue Closed: ",
+            "assignedMe": "Assigned me: "
+        },
+        "detail": {
+            "title": "Issue Detail",
+            "number": "No.",
+            "tracker": "Tracker",
+            "status": "Status",
+            "subject": "Subject",
+            "author": "Author",
+            "assignee": "Assignee",
+            "startDate": "Start Date",
+            "dueDate": "Due Date",
+            "percentDone": "% Done",
+            "item": "Item",
+            "value": "Value",
+            "description": "Description",
+            "addBy": "Added by",
+            "symbol": "#",
+            "percent": "%",
+            "history": "History",
+            "reply": "Reply to",
+            "subIssue": "SubIssue",
+            "parentIssue": "ParentIssue",
+            "files": "Files",
+            "anonymous": "Anonymous",
+            "changed_from": "changed from",
+            "set_to": "set to",
+            "file": "File",
+            "old": "Old",
+            "new": "New",
+            "updated": "updated",
+            "diff": "diff"
+        },
+        "create": {
+            "title": "New Issue",
+            "tracker": "Tracker",
+            "subject": "Subject",
+            "assignee": "Assignee",
+            "startDate": "Start Date",
+            "dueDate": "Due Date",
+            "description": "Description",
+            "parentIssue": "ParentIssue"
+        },
+        "edit": {
+            "title": "Issue Edit",
+            "tracker": "Tracker",
+            "subject": "Subject",
+            "assignee": "Assignee",
+            "startDate": "Start Date",
+            "dueDate": "Due Date",
+            "description": "Description",
+            "parentIssue": "ParentIssue",
+            "status": "Status",
+            "percentDone": "% Done",
+            "author": "Author",
+            "note": "Notes"
+        }
+    },
+    "project": {
+        "list": {
+            "title": "Project List",
+            "project_name": "Project Name",
+            "member": "Member",
+            "description": "Description",
+            "date_create": "Create Date",
+            "member_list": "Members",
+            "edit": "Edit",
+            "delete": "Delete",
+            "messege_delete": " Do you want to delete these project?",
+            "error_create": "already exists",
+            "name_member": "Name",
+            "role_member": "Role",
+            "image_member": "Image",
+            "number_member": "Number Of Members",
+            "author": "Author",
+            "add_member": {
+                "name": "Add Member",
+                "title": "Add To Project",
+                "placeholder_search": "Input Member"
+            }
+        },
+        "detail": {
+            "title_infomation": "Infomation",
+            "project_name": "Project Name",
+            "member": "Member",
+            "description": "Description",
+            "date_create": "Date Created",
+            "name": "Name",
+            "role": "Role",
+            "view_issues": "view_issues"
+        },
+        "create": {
+            "title": "New Project",
+            "name": "Name",
+            "description": "Description",
+            "member": "Member",
+            "role": "Role"
+        },
+        "edit": {
+            "title": "Project Edit",
+            "name": "Name"
+        },
+        "editors": "Editors",
+        "guests": "Guests"
+    },
+    "user": {
+        "list_title": "User List",
+        "create_title": "User Create",
+        "name": "Name",
+        "user_name": "User Name",
+        "email": "Email",
+        "birthday": "Birthday",
+        "tel": "Tel",
+        "avatar": "Avatar",
+        "create_date": "Create Date",
+        "role": "Role",
+        "anonymous": "Anonymous"
+    },
+    "profile": {
+        "detail": {
+            "title": "Profile",
+            "name": "Name",
+            "user_name": "User Name",
+            "email": "Email",
+            "birthday": "Birthday",
+            "tel": "Tel",
+            "avatar": "Avatar",
+            "create_date": "Create Date",
+            "role": "Role"
+        },
+        "edit": {
+            "title": "Profile Edit",
+            "name": "Name",
+            "user_name": "User Name",
+            "email": "Email",
+            "birthday": "Birthday",
+            "tel": "Tel",
+            "avatar": "Avatar",
+            "role": "Role",
+            "password": "Password"
+        }
+    },
+    "chat": {
+        "search": {
+            "title": "Find",
+            "placeholder_search_all": "People, groups & messages"
+        },
+        "tab_chats": {
+            "title": "Chats",
+            "describe": "RECENT CHATS"
+        },
+        "tab_contacts": {
+            "title": "Contacts",
+            "describe": "MY CONTACTS"
+        },
+        "tab_notification": {
+            "title": "Notification",
+            "describe": "MY NOTIFICATIONS"
+        },
+        "tab_all": {
+            "title": "All",
+            "people": "PEOPLE",
+            "groups": "GROUP CHATS",
+            "messages": "MESSAGES",
+            "more": "MORE"
+        },
+        "title_tab_people": "People",
+        "title_tab_message": "Messages",
+        "title_tab_group": "Groups",
+        "participant": "participants",
+        "placeholder_box_chat": "Type a message",
+        "search_not_found": "No results found for",
+        "add_member": {
+            "title": "Add to Group",
+            "btn_action": "Done"
+        },
+        "group_info": {
+            "add_people": "Add people",
+            "remove": "Remove",
+            "leave": "Leave group"
+        },
+        "anonymous": "Anonymous"
+    },
+    "mypage": {
+        "title": "My Page",
+        "assigned": "Issues assigned to",
+        "reportedIssues": "Reported issues"
+    },
+    "footer": {
+        "copy_right": "Copyright © 2020 MNR"
+    }
+}
